@@ -1,4 +1,4 @@
-👋 Olá, eu sou o Murilo!
+👋 Olá, eu sou o Murilo Henrique Cruz!
 
 💻 Estudante de Desenvolvimento de Sistemas
 
