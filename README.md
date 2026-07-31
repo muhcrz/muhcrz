@@ -1,4 +1,4 @@
-👋 Olá, eu sou o Murilo Henrique Cruz!
+🧑‍💼 Murilo Henrique Cruz
 
 💻 Estudante de Desenvolvimento de Sistemas
 
