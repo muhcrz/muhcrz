@@ -75,15 +75,6 @@
 
 ---
 
-# 🐍 Contribuições
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/muhcrz/muhcrz/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-
----
 
 <p align="center">
 
