@@ -1,5 +1,5 @@
 <h1 align="center">
-  Olá! 👋 Eu sou o Murilo Henrique Cruz
+  Olá!  Eu sou o Murilo Henrique Cruz
 </h1>
 
 <p align="center">
@@ -25,7 +25,7 @@
 
 🎯 Objetivo
 
-> Construir soluções modernas, eficientes e escaláveis enquanto evoluo como desenvolvedor Full Stack.
+> Construir soluções modernas, eficientes e escaláveis enquanto evoluo como desenvolvedor.
 
 ---
 
@@ -34,18 +34,6 @@
 <p align="center">
 
 <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,java,mysql,git,github,vscode,bootstrap"/>
-
-</p>
-
----
-
-# 📊 Estatísticas
-
-<p align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=muhcrz&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhcrz&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -66,16 +54,6 @@
 <p align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhcrz&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 Conquistas
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=muhcrz&theme=tokyonight&no-frame=true&margin-w=15"/>
 
 </p>
 
@@ -102,16 +80,6 @@
 <p align="center">
 
 <img src="https://raw.githubusercontent.com/muhcrz/muhcrz/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-
----
-
-# 💡 Frase
-
-<p align="center">
-
-<i>"A melhor maneira de prever o futuro é criá-lo."</i>
 
 </p>
 
