@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00C8FF&center=true&vCenter=true&width=700&lines=Desenvolvedor+Full+Stack+em+Forma%C3%A7%C3%A3o;Estudante+de+Desenvolvimento+de+Sistemas;Apaixonado+por+Tecnologia;Sempre+Aprendendo+Algo+Novo." />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00C8FF&center=true&vCenter=true&width=700&lines=Estudante+de+Desenvolvimento+de+Sistemas;Apaixonado+por+Tecnologia;Sempre+Aprendendo+Algo+Novo." />
 </p>
 
 ---
