@@ -14,7 +14,6 @@
 
 📚 Atualmente estudando
 
-- Java
 - JavaScript
 - Node.js
 - MySQL
@@ -33,7 +32,7 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,java,mysql,git,github,vscode,bootstrap"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,mysql,git,github,vscode,bootstrap"/>
 
 </p>
 
