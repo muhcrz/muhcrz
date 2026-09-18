@@ -48,16 +48,6 @@
 
 ---
 
-# 📈 Atividade
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=muhcrz&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
 # 🌎 Redes
 
 <p align="center">
